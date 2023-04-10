@@ -1,0 +1,28 @@
+.img{
+    height: 100px;
+    width: auto;
+        display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.superdiv{
+    text-align: center;
+}
+
+.roundet_div{
+    border-radius: 25px;
+    border: 2px solid red;
+    border-color: rgb(15, 27, 15);
+  background: red;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 20px;
+  width: 200px;
+  height: 150px;
+}
+
+.input{
+    margin-top: 10px;
+}
